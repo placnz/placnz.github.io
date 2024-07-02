@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/06/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>website</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/2024/06/16/about/</url>
+    <content><![CDATA[<h1 id="自己紹介"><a href="#自己紹介" class="headerlink" title="自己紹介"></a>自己紹介</h1><p>こんにちは！私は 周文琦 です。</p>
+<h2 id="基本情報"><a href="#基本情報" class="headerlink" title="基本情報"></a>基本情報</h2><ul>
+<li><strong>名前</strong>: シュウブンキ</li>
+<li><strong>年齢</strong>: 27</li>
+<li><strong>職業</strong>: ITエンジニア</li>
+<li><strong>趣味</strong>: PCゲーム、筋トレ</li>
+</ul>
+<span id="more"></span>
+
+<h2 id="学歴"><a href="#学歴" class="headerlink" title="学歴"></a>学歴</h2><ul>
+<li><strong>哈爾浜師範大学</strong><ul>
+<li>専攻: ソフトウェア　エンジニアリング</li>
+<li>卒業年: 2019</li>
+</ul>
+</li>
+</ul>
+<h2 id="職歴"><a href="#職歴" class="headerlink" title="職歴"></a>職歴</h2><ul>
+<li><strong>ヒューマンリソシア株式会社</strong><ul>
+<li>職位: 社員</li>
+<li>期間: 2019～</li>
+<li>職務内容: IT関連事務</li>
+</ul>
+</li>
+</ul>
+<h2 id="スキル"><a href="#スキル" class="headerlink" title="スキル"></a>スキル</h2><ul>
+<li><strong>プログラミング言語</strong>: JAVA, JavaScript, Perl… </li>
+<li><strong>ツール</strong>:</li>
+</ul>
+<h2 id="自己紹介-1"><a href="#自己紹介-1" class="headerlink" title="自己紹介"></a>自己紹介</h2><p>私はITエンジニアとして働いており、最近はAWS関連技術に特に関心があります。趣味としては、PCゲームを楽しんでいます。これからも新しいことに挑戦し、自分のスキルを磨いていきたいと思っています。どうぞよろしくお願いします！</p>
+<h2 id="連絡先"><a href="#連絡先" class="headerlink" title="連絡先"></a>連絡先</h2><ul>
+<li><strong>メール</strong>: メールアドレス</li>
+<li><strong>電話</strong>: 電話番号</li>
+</ul>
+<hr>
+<p>GitHubプロフィール(<a href="https://github.com/placnz">https://github.com/placnz</a>)</p>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>etc.</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AWS 学習経験</title>
+    <url>/2024/06/27/AWS%E5%8B%89%E5%BC%B7%E7%B5%8C%E9%A8%93/</url>
+    <content><![CDATA[<h1 id="AWS-学習経験"><a href="#AWS-学習経験" class="headerlink" title="AWS 学習経験"></a>AWS 学習経験</h1><p>こんにちは、皆さん！今日は、私が AWS (Amazon Web Services) を学ぶ過程で得た経験を共有したいと思います。</p>
+<h2 id="学習のきっかけ"><a href="#学習のきっかけ" class="headerlink" title="学習のきっかけ"></a>学習のきっかけ</h2><p>私が AWS を学び始めたのは、クラウドコンピューティングの重要性と普及が増していることに気づいたからです。クラウドは、企業がコストを削減し、柔軟性を高め、スケーラビリティを向上させるための強力なツールです。AWS は、その中でもリーダー的な存在であり、多くの企業が採用しています。</p>
+<span id="more"></span>
+
+<h2 id="学習リソース"><a href="#学習リソース" class="headerlink" title="学習リソース"></a>学習リソース</h2><h3 id="オンラインコース"><a href="#オンラインコース" class="headerlink" title="オンラインコース"></a>オンラインコース</h3><ul>
+<li><strong>Udemy</strong>: Udemy には、多くの優れた AWS コースがあります。特に、AWS 認定ソリューションアーキテクト – アソシエイトのコースは、基礎から高度な概念まで網羅しています。</li>
+<li><strong>A Cloud Guru</strong>: A Cloud Guru も非常に役立つプラットフォームです。実践的なラボやクイズを通じて、実際の AWS 環境での経験を積むことができます。</li>
+</ul>
+<h3 id="ドキュメントと書籍"><a href="#ドキュメントと書籍" class="headerlink" title="ドキュメントと書籍"></a>ドキュメントと書籍</h3><ul>
+<li><strong>AWS 公式ドキュメント</strong>: AWS の公式ドキュメントは非常に詳細で、各サービスについての情報が豊富です。最初は難しいかもしれませんが、慣れてくると非常に役立ちます。</li>
+<li><strong>書籍</strong>: 「AWSで始めるクラウド入門」や「AWS認定試験対策」などの書籍も、多くの実践的な知識を提供してくれます。</li>
+</ul>
+<h2 id="学習のステップ"><a href="#学習のステップ" class="headerlink" title="学習のステップ"></a>学習のステップ</h2><h3 id="1-基礎の理解"><a href="#1-基礎の理解" class="headerlink" title="1. 基礎の理解"></a>1. 基礎の理解</h3><p>最初に、クラウドコンピューティングの基本概念を理解することから始めました。これには、IaaS (Infrastructure as a Service)、PaaS (Platform as a Service)、SaaS (Software as a Service) などのモデルの違いを学びました。</p>
+<h3 id="2-AWS-アカウントの作成"><a href="#2-AWS-アカウントの作成" class="headerlink" title="2. AWS アカウントの作成"></a>2. AWS アカウントの作成</h3><p>次に、AWS の無料利用枠を利用して、自分のアカウントを作成しました。これにより、実際の AWS 環境で実験を行うことができました。</p>
+<h3 id="3-主要サービスの学習"><a href="#3-主要サービスの学習" class="headerlink" title="3. 主要サービスの学習"></a>3. 主要サービスの学習</h3><p>AWS の主要なサービス、例えば EC2 (Elastic Compute Cloud)、S3 (Simple Storage Service)、RDS (Relational Database Service) などについて学びました。これらのサービスは、ほとんどの AWS プロジェクトの基盤となるものです。</p>
+<h3 id="4-実践的なプロジェクト"><a href="#4-実践的なプロジェクト" class="headerlink" title="4. 実践的なプロジェクト"></a>4. 実践的なプロジェクト</h3><p>学んだ知識を実践に移すため、小さなプロジェクトをいくつか行いました。例えば、EC2 インスタンスを設定してウェブサーバーをホスティングしたり、S3 バケットを使って静的ウェブサイトを公開したりしました。</p>
+<h3 id="5-認定試験の準備"><a href="#5-認定試験の準備" class="headerlink" title="5. 認定試験の準備"></a>5. 認定試験の準備</h3><p>最後に、AWS 認定ソリューションアーキテクト – アソシエイトの試験に向けて学習しました。このプロセスでは、模擬試験を受けたり、過去問を解いたりして、試験形式に慣れるよう努めました。</p>
+<h2 id="学習の成果"><a href="#学習の成果" class="headerlink" title="学習の成果"></a>学習の成果</h2><p>AWS を学ぶ過程で、多くの技術的なスキルと知識を得ることができました。これにより、クラウドベースのソリューションを設計・実装する能力が向上しました。また、AWS 認定資格を取得することで、専門知識を証明し、キャリアの向上にもつながりました。</p>
+<h2 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a>まとめ</h2><p>AWS の学習は決して簡単ではありませんが、非常に価値のある経験です。継続的な学習と実践を通じて、クラウドコンピューティングの世界で成功するための基礎を築くことができます。皆さんもぜひ、AWS の学習を始めてみてください！</p>
+<hr>
+]]></content>
+      <categories>
+        <category>work</category>
+      </categories>
+      <tags>
+        <tag>AWS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ゲームツール</title>
+    <url>/2024/06/30/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%84%E3%83%BC%E3%83%AB/</url>
+    <content><![CDATA[<p>役に立つなツールを使いましょう。<br><a href="https://thunderview.net/">thunderview</a><br><a href="https://wt.controlnet.space/">BR HeatMap</a></p>
+<hr>
+]]></content>
+      <categories>
+        <category>game</category>
+      </categories>
+      <tags>
+        <tag>warthunder</tag>
+      </tags>
+  </entry>
+</search>
